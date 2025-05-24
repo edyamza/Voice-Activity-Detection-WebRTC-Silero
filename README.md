@@ -56,9 +56,17 @@ python vad_guide.py
 
 ## 🖼️ GUI Preview
 
-> 🟢 Live status color changes  
-> 📈 Spectrograms for both models  
-> 📊 Comparison window auto-generates performance bar charts
+### 🎛️ Main Interface
+<img src="screenshots/main_interface.png" width="500"/>
+
+### 📊 Confusion Matrices – WebRTC vs Silero
+<img src="screenshots/confusion_matrices.png" width="600"/>
+
+### 📈 Metric Comparison Bar Chart
+<img src="screenshots/comparison_chart.png" width="600"/>
+
+### 🔊 Spectrogram + Waveform View
+<img src="screenshots/spectrogram_waveform.png" width="600"/>
 
 ---
 
