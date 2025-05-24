@@ -60,8 +60,6 @@ python vad_guide.py
 > 📈 Spectrograms for both models  
 > 📊 Comparison window auto-generates performance bar charts
 
-*(Insert screenshots or demo GIF here if you'd like)*
-
 ---
 
 ## 📁 Project Structure
