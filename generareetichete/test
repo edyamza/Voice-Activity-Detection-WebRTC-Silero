@@ -1,0 +1,9 @@
+import wave
+
+with wave.open("/Users/daemondog/Desktop/proiect PSV - VAD/AUDIO FILES/audio1_zgomot.wav", 'rb') as wf:
+    sample_rate = wf.getframerate()
+    channels = wf.getnchannels()
+    sampwidth = wf.getsampwidth()
+    print(f"Sample rate: {sample_rate}")
+    print(f"Channels: {channels}")
+    print(f"Sample width: {sampwidth * 8} bits")

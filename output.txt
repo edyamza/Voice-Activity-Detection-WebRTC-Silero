@@ -1,0 +1,4602 @@
+Fișier: audio61.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 110 | TN: 60 | FP: 3 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9140
+Precision              = 0.9735
+Recall                 = 0.8943
+F1-score               = 0.9322
+False Positive Rate    = 0.0476
+False Negative Rate    = 0.1057
+----------------------------------
+
+Fișier: audio61.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 88 | TN: 76 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8241
+Precision              = 1.0000
+Recall                 = 0.7154
+F1-score               = 0.8341
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2846
+----------------------------------
+
+Fișier: audio75.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 81 | FP: 4 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9061
+Precision              = 0.9540
+Recall                 = 0.8646
+F1-score               = 0.9071
+False Positive Rate    = 0.0471
+False Negative Rate    = 0.1354
+----------------------------------
+
+Fișier: audio75.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 68 | TN: 97 | FP: 0 | FN: 28
+-------- Metrici --------
+Accuracy               = 0.8549
+Precision              = 1.0000
+Recall                 = 0.7083
+F1-score               = 0.8293
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2917
+----------------------------------
+
+Fișier: audio49.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 89 | TN: 70 | FP: 3 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9138
+Precision              = 0.9674
+Recall                 = 0.8812
+F1-score               = 0.9223
+False Positive Rate    = 0.0411
+False Negative Rate    = 0.1188
+----------------------------------
+
+Fișier: audio49.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 85 | FP: 0 | FN: 23
+-------- Metrici --------
+Accuracy               = 0.8763
+Precision              = 1.0000
+Recall                 = 0.7723
+F1-score               = 0.8715
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2277
+----------------------------------
+
+Fișier: audio48.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 107 | TN: 47 | FP: 6 | FN: 20
+-------- Metrici --------
+Accuracy               = 0.8556
+Precision              = 0.9469
+Recall                 = 0.8425
+F1-score               = 0.8917
+False Positive Rate    = 0.1132
+False Negative Rate    = 0.1575
+----------------------------------
+
+Fișier: audio48.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 90 | TN: 65 | FP: 0 | FN: 37
+-------- Metrici --------
+Accuracy               = 0.8073
+Precision              = 1.0000
+Recall                 = 0.7087
+F1-score               = 0.8295
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2913
+----------------------------------
+
+Fișier: audio74.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 88 | TN: 70 | FP: 5 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8927
+Precision              = 0.9462
+Recall                 = 0.8627
+F1-score               = 0.9026
+False Positive Rate    = 0.0667
+False Negative Rate    = 0.1373
+----------------------------------
+
+Fișier: audio74.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 87 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8730
+Precision              = 1.0000
+Recall                 = 0.7647
+F1-score               = 0.8667
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2353
+----------------------------------
+
+Fișier: audio60.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 101 | TN: 49 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9202
+Precision              = 0.9902
+Recall                 = 0.8938
+F1-score               = 0.9395
+False Positive Rate    = 0.0200
+False Negative Rate    = 0.1062
+----------------------------------
+
+Fișier: audio60.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 61 | FP: 0 | FN: 28
+-------- Metrici --------
+Accuracy               = 0.8391
+Precision              = 1.0000
+Recall                 = 0.7522
+F1-score               = 0.8586
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2478
+----------------------------------
+
+Fișier: audio89.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 104 | TN: 63 | FP: 4 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.9027
+Precision              = 0.9630
+Recall                 = 0.8814
+F1-score               = 0.9204
+False Positive Rate    = 0.0597
+False Negative Rate    = 0.1186
+----------------------------------
+
+Fișier: audio89.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 82 | TN: 80 | FP: 0 | FN: 36
+-------- Metrici --------
+Accuracy               = 0.8182
+Precision              = 1.0000
+Recall                 = 0.6949
+F1-score               = 0.8200
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3051
+----------------------------------
+
+Fișier: audio76.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 110 | TN: 61 | FP: 4 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8906
+Precision              = 0.9649
+Recall                 = 0.8661
+F1-score               = 0.9129
+False Positive Rate    = 0.0615
+False Negative Rate    = 0.1339
+----------------------------------
+
+Fișier: audio76.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 90 | TN: 78 | FP: 0 | FN: 37
+-------- Metrici --------
+Accuracy               = 0.8195
+Precision              = 1.0000
+Recall                 = 0.7087
+F1-score               = 0.8295
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2913
+----------------------------------
+
+Fișier: audio62.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 35 | TN: 78 | FP: 2 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9339
+Precision              = 0.9459
+Recall                 = 0.8537
+F1-score               = 0.8974
+False Positive Rate    = 0.0250
+False Negative Rate    = 0.1463
+----------------------------------
+
+Fișier: audio62.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 22 | TN: 88 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8527
+Precision              = 1.0000
+Recall                 = 0.5366
+F1-score               = 0.6984
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.4634
+----------------------------------
+
+Fișier: audio63.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 94 | TN: 49 | FP: 2 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9051
+Precision              = 0.9792
+Recall                 = 0.8785
+F1-score               = 0.9261
+False Positive Rate    = 0.0392
+False Negative Rate    = 0.1215
+----------------------------------
+
+Fișier: audio63.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 77 | TN: 62 | FP: 0 | FN: 30
+-------- Metrici --------
+Accuracy               = 0.8225
+Precision              = 1.0000
+Recall                 = 0.7196
+F1-score               = 0.8370
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2804
+----------------------------------
+
+Fișier: audio77.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 51 | TN: 71 | FP: 1 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9385
+Precision              = 0.9808
+Recall                 = 0.8793
+F1-score               = 0.9273
+False Positive Rate    = 0.0139
+False Negative Rate    = 0.1207
+----------------------------------
+
+Fișier: audio77.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 41 | TN: 81 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8777
+Precision              = 1.0000
+Recall                 = 0.7069
+F1-score               = 0.8283
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2931
+----------------------------------
+
+Fișier: audio88.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 49 | FP: 2 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8859
+Precision              = 0.9765
+Recall                 = 0.8469
+F1-score               = 0.9071
+False Positive Rate    = 0.0392
+False Negative Rate    = 0.1531
+----------------------------------
+
+Fișier: audio88.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 65 | TN: 61 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.7925
+Precision              = 1.0000
+Recall                 = 0.6633
+F1-score               = 0.7975
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3367
+----------------------------------
+
+Fișier: audio98.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 73 | TN: 49 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9242
+Precision              = 0.9865
+Recall                 = 0.8902
+F1-score               = 0.9359
+False Positive Rate    = 0.0200
+False Negative Rate    = 0.1098
+----------------------------------
+
+Fișier: audio98.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 55 | TN: 59 | FP: 0 | FN: 27
+-------- Metrici --------
+Accuracy               = 0.8085
+Precision              = 1.0000
+Recall                 = 0.6707
+F1-score               = 0.8029
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3293
+----------------------------------
+
+Fișier: audio73.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 99 | TN: 57 | FP: 1 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.9070
+Precision              = 0.9900
+Recall                 = 0.8684
+F1-score               = 0.9252
+False Positive Rate    = 0.0172
+False Negative Rate    = 0.1316
+----------------------------------
+
+Fișier: audio73.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 76 | TN: 69 | FP: 0 | FN: 38
+-------- Metrici --------
+Accuracy               = 0.7923
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio67.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 73 | TN: 37 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.8943
+Precision              = 0.9865
+Recall                 = 0.8588
+F1-score               = 0.9182
+False Positive Rate    = 0.0263
+False Negative Rate    = 0.1412
+----------------------------------
+
+Fișier: audio67.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 53 | TN: 47 | FP: 0 | FN: 32
+-------- Metrici --------
+Accuracy               = 0.7576
+Precision              = 1.0000
+Recall                 = 0.6235
+F1-score               = 0.7681
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3765
+----------------------------------
+
+Fișier: audio66.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 59 | TN: 72 | FP: 1 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9493
+Precision              = 0.9833
+Recall                 = 0.9077
+F1-score               = 0.9440
+False Positive Rate    = 0.0137
+False Negative Rate    = 0.0923
+----------------------------------
+
+Fișier: audio66.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 50 | TN: 82 | FP: 0 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8980
+Precision              = 1.0000
+Recall                 = 0.7692
+F1-score               = 0.8696
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2308
+----------------------------------
+
+Fișier: audio72.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 85 | TN: 59 | FP: 3 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9000
+Precision              = 0.9659
+Recall                 = 0.8673
+F1-score               = 0.9140
+False Positive Rate    = 0.0484
+False Negative Rate    = 0.1327
+----------------------------------
+
+Fișier: audio72.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 59 | TN: 73 | FP: 0 | FN: 39
+-------- Metrici --------
+Accuracy               = 0.7719
+Precision              = 1.0000
+Recall                 = 0.6020
+F1-score               = 0.7516
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3980
+----------------------------------
+
+Fișier: audio99.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 89 | TN: 27 | FP: 3 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8529
+Precision              = 0.9674
+Recall                 = 0.8396
+F1-score               = 0.8990
+False Positive Rate    = 0.1000
+False Negative Rate    = 0.1604
+----------------------------------
+
+Fișier: audio99.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 93 | TN: 39 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9103
+Precision              = 1.0000
+Recall                 = 0.8774
+F1-score               = 0.9347
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1226
+----------------------------------
+
+Fișier: audio58.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 72 | TN: 49 | FP: 2 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9167
+Precision              = 0.9730
+Recall                 = 0.8889
+F1-score               = 0.9290
+False Positive Rate    = 0.0392
+False Negative Rate    = 0.1111
+----------------------------------
+
+Fișier: audio58.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 54 | TN: 60 | FP: 0 | FN: 27
+-------- Metrici --------
+Accuracy               = 0.8085
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio64.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 81 | FP: 4 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9061
+Precision              = 0.9540
+Recall                 = 0.8646
+F1-score               = 0.9071
+False Positive Rate    = 0.0471
+False Negative Rate    = 0.1354
+----------------------------------
+
+Fișier: audio64.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 68 | TN: 97 | FP: 0 | FN: 28
+-------- Metrici --------
+Accuracy               = 0.8549
+Precision              = 1.0000
+Recall                 = 0.7083
+F1-score               = 0.8293
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2917
+----------------------------------
+
+Fișier: audio70.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 52 | TN: 53 | FP: 0 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9375
+Precision              = 1.0000
+Recall                 = 0.8814
+F1-score               = 0.9369
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1186
+----------------------------------
+
+Fișier: audio70.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 35 | TN: 61 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8000
+Precision              = 1.0000
+Recall                 = 0.5932
+F1-score               = 0.7447
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.4068
+----------------------------------
+
+Fișier: audio71.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 62 | TN: 61 | FP: 0 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9462
+Precision              = 1.0000
+Recall                 = 0.8986
+F1-score               = 0.9466
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1014
+----------------------------------
+
+Fișier: audio71.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 41 | TN: 70 | FP: 0 | FN: 28
+-------- Metrici --------
+Accuracy               = 0.7986
+Precision              = 1.0000
+Recall                 = 0.5942
+F1-score               = 0.7455
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.4058
+----------------------------------
+
+Fișier: audio65.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 100 | TN: 70 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9290
+Precision              = 0.9901
+Recall                 = 0.8929
+F1-score               = 0.9390
+False Positive Rate    = 0.0141
+False Negative Rate    = 0.1071
+----------------------------------
+
+Fișier: audio65.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 81 | TN: 83 | FP: 0 | FN: 31
+-------- Metrici --------
+Accuracy               = 0.8410
+Precision              = 1.0000
+Recall                 = 0.7232
+F1-score               = 0.8394
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2768
+----------------------------------
+
+Fișier: audio59.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 104 | TN: 63 | FP: 4 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.9027
+Precision              = 0.9630
+Recall                 = 0.8814
+F1-score               = 0.9204
+False Positive Rate    = 0.0597
+False Negative Rate    = 0.1186
+----------------------------------
+
+Fișier: audio59.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 82 | TN: 80 | FP: 0 | FN: 36
+-------- Metrici --------
+Accuracy               = 0.8182
+Precision              = 1.0000
+Recall                 = 0.6949
+F1-score               = 0.8200
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3051
+----------------------------------
+
+Fișier: audio100.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 72 | TN: 33 | FP: 1 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8678
+Precision              = 0.9863
+Recall                 = 0.8276
+F1-score               = 0.9000
+False Positive Rate    = 0.0294
+False Negative Rate    = 0.1724
+----------------------------------
+
+Fișier: audio100.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 73 | TN: 42 | FP: 0 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8915
+Precision              = 1.0000
+Recall                 = 0.8391
+F1-score               = 0.9125
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1609
+----------------------------------
+
+Fișier: audio38.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 97 | TN: 58 | FP: 0 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9451
+Precision              = 1.0000
+Recall                 = 0.9151
+F1-score               = 0.9557
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0849
+----------------------------------
+
+Fișier: audio38.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 94 | TN: 69 | FP: 0 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9314
+Precision              = 1.0000
+Recall                 = 0.8868
+F1-score               = 0.9400
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1132
+----------------------------------
+
+Fișier: audio39.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 59 | FP: 3 | FN: 21
+-------- Metrici --------
+Accuracy               = 0.8554
+Precision              = 0.9651
+Recall                 = 0.7981
+F1-score               = 0.8737
+False Positive Rate    = 0.0484
+False Negative Rate    = 0.2019
+----------------------------------
+
+Fișier: audio39.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 69 | TN: 73 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8023
+Precision              = 1.0000
+Recall                 = 0.6635
+F1-score               = 0.7977
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3365
+----------------------------------
+
+Fișier: audio37.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 59 | TN: 81 | FP: 1 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9524
+Precision              = 0.9833
+Recall                 = 0.9077
+F1-score               = 0.9440
+False Positive Rate    = 0.0122
+False Negative Rate    = 0.0923
+----------------------------------
+
+Fișier: audio37.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 47 | TN: 92 | FP: 0 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8854
+Precision              = 1.0000
+Recall                 = 0.7231
+F1-score               = 0.8393
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2769
+----------------------------------
+
+Fișier: audio36.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 112 | TN: 64 | FP: 9 | FN: 23
+-------- Metrici --------
+Accuracy               = 0.8462
+Precision              = 0.9256
+Recall                 = 0.8296
+F1-score               = 0.8750
+False Positive Rate    = 0.1233
+False Negative Rate    = 0.1704
+----------------------------------
+
+Fișier: audio36.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 81 | TN: 87 | FP: 0 | FN: 54
+-------- Metrici --------
+Accuracy               = 0.7568
+Precision              = 1.0000
+Recall                 = 0.6000
+F1-score               = 0.7500
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.4000
+----------------------------------
+
+Fișier: audio34.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 173 | TN: 45 | FP: 18 | FN: 39
+-------- Metrici --------
+Accuracy               = 0.7927
+Precision              = 0.9058
+Recall                 = 0.8160
+F1-score               = 0.8586
+False Positive Rate    = 0.2857
+False Negative Rate    = 0.1840
+----------------------------------
+
+Fișier: audio34.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 154 | TN: 82 | FP: 0 | FN: 58
+-------- Metrici --------
+Accuracy               = 0.8027
+Precision              = 1.0000
+Recall                 = 0.7264
+F1-score               = 0.8415
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2736
+----------------------------------
+
+Fișier: audio35.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 77 | FP: 4 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8865
+Precision              = 0.9560
+Recall                 = 0.8365
+F1-score               = 0.8923
+False Positive Rate    = 0.0494
+False Negative Rate    = 0.1635
+----------------------------------
+
+Fișier: audio35.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 94 | FP: 0 | FN: 26
+-------- Metrici --------
+Accuracy               = 0.8687
+Precision              = 1.0000
+Recall                 = 0.7500
+F1-score               = 0.8571
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2500
+----------------------------------
+
+Fișier: audio31.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 97 | TN: 52 | FP: 1 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.8976
+Precision              = 0.9898
+Recall                 = 0.8584
+F1-score               = 0.9194
+False Positive Rate    = 0.0189
+False Negative Rate    = 0.1416
+----------------------------------
+
+Fișier: audio31.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 64 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8023
+Precision              = 1.0000
+Recall                 = 0.6903
+F1-score               = 0.8168
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3097
+----------------------------------
+
+Fișier: audio32.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 99 | TN: 56 | FP: 1 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9012
+Precision              = 0.9900
+Recall                 = 0.8609
+F1-score               = 0.9209
+False Positive Rate    = 0.0175
+False Negative Rate    = 0.1391
+----------------------------------
+
+Fișier: audio32.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 76 | TN: 68 | FP: 0 | FN: 39
+-------- Metrici --------
+Accuracy               = 0.7869
+Precision              = 1.0000
+Recall                 = 0.6609
+F1-score               = 0.7958
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3391
+----------------------------------
+
+Fișier: audio33.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 94 | TN: 85 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9323
+Precision              = 0.9792
+Recall                 = 0.8952
+F1-score               = 0.9353
+False Positive Rate    = 0.0230
+False Negative Rate    = 0.1048
+----------------------------------
+
+Fișier: audio33.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 100 | FP: 0 | FN: 27
+-------- Metrici --------
+Accuracy               = 0.8683
+Precision              = 1.0000
+Recall                 = 0.7429
+F1-score               = 0.8525
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2571
+----------------------------------
+
+Fișier: audio83.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 86 | TN: 68 | FP: 2 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9277
+Precision              = 0.9773
+Recall                 = 0.8958
+F1-score               = 0.9348
+False Positive Rate    = 0.0286
+False Negative Rate    = 0.1042
+----------------------------------
+
+Fișier: audio83.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 72 | TN: 81 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8644
+Precision              = 1.0000
+Recall                 = 0.7500
+F1-score               = 0.8571
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2500
+----------------------------------
+
+Fișier: audio97.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 88 | TN: 69 | FP: 3 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.9023
+Precision              = 0.9670
+Recall                 = 0.8627
+F1-score               = 0.9119
+False Positive Rate    = 0.0417
+False Negative Rate    = 0.1373
+----------------------------------
+
+Fișier: audio97.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 84 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8710
+Precision              = 1.0000
+Recall                 = 0.7647
+F1-score               = 0.8667
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2353
+----------------------------------
+
+Fișier: audio40.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 106 | TN: 59 | FP: 2 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9167
+Precision              = 0.9815
+Recall                 = 0.8908
+F1-score               = 0.9339
+False Positive Rate    = 0.0328
+False Negative Rate    = 0.1092
+----------------------------------
+
+Fișier: audio40.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 73 | FP: 0 | FN: 34
+-------- Metrici --------
+Accuracy               = 0.8229
+Precision              = 1.0000
+Recall                 = 0.7143
+F1-score               = 0.8333
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2857
+----------------------------------
+
+Fișier: audio54.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 48 | FP: 2 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.8792
+Precision              = 0.9765
+Recall                 = 0.8384
+F1-score               = 0.9022
+False Positive Rate    = 0.0400
+False Negative Rate    = 0.1616
+----------------------------------
+
+Fișier: audio54.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 65 | TN: 60 | FP: 0 | FN: 34
+-------- Metrici --------
+Accuracy               = 0.7862
+Precision              = 1.0000
+Recall                 = 0.6566
+F1-score               = 0.7927
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3434
+----------------------------------
+
+Fișier: audio68.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 95 | TN: 57 | FP: 3 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8736
+Precision              = 0.9694
+Recall                 = 0.8333
+F1-score               = 0.8962
+False Positive Rate    = 0.0500
+False Negative Rate    = 0.1667
+----------------------------------
+
+Fișier: audio68.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 79 | TN: 72 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8118
+Precision              = 1.0000
+Recall                 = 0.6930
+F1-score               = 0.8187
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3070
+----------------------------------
+
+Fișier: audio69.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 95 | TN: 68 | FP: 1 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8907
+Precision              = 0.9896
+Recall                 = 0.8333
+F1-score               = 0.9048
+False Positive Rate    = 0.0145
+False Negative Rate    = 0.1667
+----------------------------------
+
+Fișier: audio69.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 73 | TN: 81 | FP: 0 | FN: 41
+-------- Metrici --------
+Accuracy               = 0.7897
+Precision              = 1.0000
+Recall                 = 0.6404
+F1-score               = 0.7807
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3596
+----------------------------------
+
+Fișier: audio55.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 96 | TN: 60 | FP: 1 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9512
+Precision              = 0.9897
+Recall                 = 0.9320
+F1-score               = 0.9600
+False Positive Rate    = 0.0164
+False Negative Rate    = 0.0680
+----------------------------------
+
+Fișier: audio55.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 75 | TN: 72 | FP: 0 | FN: 28
+-------- Metrici --------
+Accuracy               = 0.8400
+Precision              = 1.0000
+Recall                 = 0.7282
+F1-score               = 0.8427
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2718
+----------------------------------
+
+Fișier: audio41.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 111 | TN: 60 | FP: 5 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.8906
+Precision              = 0.9569
+Recall                 = 0.8740
+F1-score               = 0.9136
+False Positive Rate    = 0.0769
+False Negative Rate    = 0.1260
+----------------------------------
+
+Fișier: audio41.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 89 | TN: 78 | FP: 0 | FN: 38
+-------- Metrici --------
+Accuracy               = 0.8146
+Precision              = 1.0000
+Recall                 = 0.7008
+F1-score               = 0.8241
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2992
+----------------------------------
+
+Fișier: audio96.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 107 | TN: 48 | FP: 6 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8611
+Precision              = 0.9469
+Recall                 = 0.8492
+F1-score               = 0.8954
+False Positive Rate    = 0.1111
+False Negative Rate    = 0.1508
+----------------------------------
+
+Fișier: audio96.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 91 | TN: 66 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8177
+Precision              = 1.0000
+Recall                 = 0.7222
+F1-score               = 0.8387
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2778
+----------------------------------
+
+Fișier: audio82.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 82 | TN: 59 | FP: 2 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9338
+Precision              = 0.9762
+Recall                 = 0.9111
+F1-score               = 0.9425
+False Positive Rate    = 0.0328
+False Negative Rate    = 0.0889
+----------------------------------
+
+Fișier: audio82.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 61 | TN: 72 | FP: 0 | FN: 29
+-------- Metrici --------
+Accuracy               = 0.8210
+Precision              = 1.0000
+Recall                 = 0.6778
+F1-score               = 0.8079
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3222
+----------------------------------
+
+Fișier: audio94.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 110 | TN: 60 | FP: 3 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9140
+Precision              = 0.9735
+Recall                 = 0.8943
+F1-score               = 0.9322
+False Positive Rate    = 0.0476
+False Negative Rate    = 0.1057
+----------------------------------
+
+Fișier: audio94.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 89 | TN: 76 | FP: 0 | FN: 34
+-------- Metrici --------
+Accuracy               = 0.8291
+Precision              = 1.0000
+Recall                 = 0.7236
+F1-score               = 0.8396
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2764
+----------------------------------
+
+Fișier: audio80.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 78 | TN: 76 | FP: 2 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9112
+Precision              = 0.9750
+Recall                 = 0.8571
+F1-score               = 0.9123
+False Positive Rate    = 0.0256
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio80.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 64 | TN: 90 | FP: 0 | FN: 27
+-------- Metrici --------
+Accuracy               = 0.8508
+Precision              = 1.0000
+Recall                 = 0.7033
+F1-score               = 0.8258
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2967
+----------------------------------
+
+Fișier: audio57.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 62 | TN: 84 | FP: 2 | FN: 5
+-------- Metrici --------
+Accuracy               = 0.9542
+Precision              = 0.9688
+Recall                 = 0.9254
+F1-score               = 0.9466
+False Positive Rate    = 0.0233
+False Negative Rate    = 0.0746
+----------------------------------
+
+Fișier: audio57.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 54 | TN: 96 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9202
+Precision              = 1.0000
+Recall                 = 0.8060
+F1-score               = 0.8926
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1940
+----------------------------------
+
+Fișier: audio43.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 69 | TN: 74 | FP: 0 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9470
+Precision              = 1.0000
+Recall                 = 0.8961
+F1-score               = 0.9452
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1039
+----------------------------------
+
+Fișier: audio43.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 61 | TN: 85 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9012
+Precision              = 1.0000
+Recall                 = 0.7922
+F1-score               = 0.8841
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2078
+----------------------------------
+
+Fișier: audio42.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 93 | TN: 83 | FP: 2 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.9167
+Precision              = 0.9789
+Recall                 = 0.8692
+F1-score               = 0.9208
+False Positive Rate    = 0.0235
+False Negative Rate    = 0.1308
+----------------------------------
+
+Fișier: audio42.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 70 | TN: 98 | FP: 0 | FN: 37
+-------- Metrici --------
+Accuracy               = 0.8195
+Precision              = 1.0000
+Recall                 = 0.6542
+F1-score               = 0.7910
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3458
+----------------------------------
+
+Fișier: audio56.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 78 | TN: 79 | FP: 2 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9290
+Precision              = 0.9750
+Recall                 = 0.8864
+F1-score               = 0.9286
+False Positive Rate    = 0.0247
+False Negative Rate    = 0.1136
+----------------------------------
+
+Fișier: audio56.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 64 | TN: 93 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8674
+Precision              = 1.0000
+Recall                 = 0.7273
+F1-score               = 0.8421
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2727
+----------------------------------
+
+Fișier: audio81.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 73 | TN: 37 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.8943
+Precision              = 0.9865
+Recall                 = 0.8588
+F1-score               = 0.9182
+False Positive Rate    = 0.0263
+False Negative Rate    = 0.1412
+----------------------------------
+
+Fișier: audio81.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 53 | TN: 47 | FP: 0 | FN: 32
+-------- Metrici --------
+Accuracy               = 0.7576
+Precision              = 1.0000
+Recall                 = 0.6235
+F1-score               = 0.7681
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3765
+----------------------------------
+
+Fișier: audio95.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 95 | TN: 57 | FP: 3 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8736
+Precision              = 0.9694
+Recall                 = 0.8333
+F1-score               = 0.8962
+False Positive Rate    = 0.0500
+False Negative Rate    = 0.1667
+----------------------------------
+
+Fișier: audio95.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 79 | TN: 72 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8118
+Precision              = 1.0000
+Recall                 = 0.6930
+F1-score               = 0.8187
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3070
+----------------------------------
+
+Fișier: audio91.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 86 | TN: 77 | FP: 5 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8811
+Precision              = 0.9451
+Recall                 = 0.8350
+F1-score               = 0.8866
+False Positive Rate    = 0.0610
+False Negative Rate    = 0.1650
+----------------------------------
+
+Fișier: audio91.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 95 | FP: 0 | FN: 25
+-------- Metrici --------
+Accuracy               = 0.8737
+Precision              = 1.0000
+Recall                 = 0.7573
+F1-score               = 0.8619
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2427
+----------------------------------
+
+Fișier: audio85.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 97 | TN: 58 | FP: 0 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9451
+Precision              = 1.0000
+Recall                 = 0.9151
+F1-score               = 0.9557
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0849
+----------------------------------
+
+Fișier: audio85.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 94 | TN: 69 | FP: 0 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9314
+Precision              = 1.0000
+Recall                 = 0.8868
+F1-score               = 0.9400
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1132
+----------------------------------
+
+Fișier: audio52.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 20 | FP: 0 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8407
+Precision              = 1.0000
+Recall                 = 0.8065
+F1-score               = 0.8929
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1935
+----------------------------------
+
+Fișier: audio52.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 76 | TN: 28 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8595
+Precision              = 1.0000
+Recall                 = 0.8172
+F1-score               = 0.8994
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1828
+----------------------------------
+
+Fișier: audio46.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 71 | TN: 82 | FP: 2 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9387
+Precision              = 0.9726
+Recall                 = 0.8987
+F1-score               = 0.9342
+False Positive Rate    = 0.0238
+False Negative Rate    = 0.1013
+----------------------------------
+
+Fișier: audio46.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 48 | TN: 95 | FP: 0 | FN: 31
+-------- Metrici --------
+Accuracy               = 0.8218
+Precision              = 1.0000
+Recall                 = 0.6076
+F1-score               = 0.7559
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3924
+----------------------------------
+
+Fișier: audio47.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 89 | TN: 27 | FP: 3 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8529
+Precision              = 0.9674
+Recall                 = 0.8396
+F1-score               = 0.8990
+False Positive Rate    = 0.1000
+False Negative Rate    = 0.1604
+----------------------------------
+
+Fișier: audio47.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 93 | TN: 39 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9103
+Precision              = 1.0000
+Recall                 = 0.8774
+F1-score               = 0.9347
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1226
+----------------------------------
+
+Fișier: audio53.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 86 | TN: 70 | FP: 5 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.8814
+Precision              = 0.9451
+Recall                 = 0.8431
+F1-score               = 0.8912
+False Positive Rate    = 0.0667
+False Negative Rate    = 0.1569
+----------------------------------
+
+Fișier: audio53.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 87 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8730
+Precision              = 1.0000
+Recall                 = 0.7647
+F1-score               = 0.8667
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2353
+----------------------------------
+
+Fișier: audio84.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 106 | TN: 56 | FP: 2 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9000
+Precision              = 0.9815
+Recall                 = 0.8689
+F1-score               = 0.9217
+False Positive Rate    = 0.0345
+False Negative Rate    = 0.1311
+----------------------------------
+
+Fișier: audio84.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 95 | TN: 70 | FP: 0 | FN: 27
+-------- Metrici --------
+Accuracy               = 0.8594
+Precision              = 1.0000
+Recall                 = 0.7787
+F1-score               = 0.8756
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2213
+----------------------------------
+
+Fișier: audio90.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 106 | TN: 56 | FP: 2 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9000
+Precision              = 0.9815
+Recall                 = 0.8689
+F1-score               = 0.9217
+False Positive Rate    = 0.0345
+False Negative Rate    = 0.1311
+----------------------------------
+
+Fișier: audio90.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 70 | FP: 0 | FN: 37
+-------- Metrici --------
+Accuracy               = 0.8073
+Precision              = 1.0000
+Recall                 = 0.6967
+F1-score               = 0.8213
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3033
+----------------------------------
+
+Fișier: audio86.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 59 | TN: 82 | FP: 1 | FN: 5
+-------- Metrici --------
+Accuracy               = 0.9592
+Precision              = 0.9833
+Recall                 = 0.9219
+F1-score               = 0.9516
+False Positive Rate    = 0.0120
+False Negative Rate    = 0.0781
+----------------------------------
+
+Fișier: audio86.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 47 | TN: 93 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8917
+Precision              = 1.0000
+Recall                 = 0.7344
+F1-score               = 0.8468
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2656
+----------------------------------
+
+Fișier: audio92.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 96 | TN: 60 | FP: 1 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9512
+Precision              = 0.9897
+Recall                 = 0.9320
+F1-score               = 0.9600
+False Positive Rate    = 0.0164
+False Negative Rate    = 0.0680
+----------------------------------
+
+Fișier: audio92.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 75 | TN: 72 | FP: 0 | FN: 28
+-------- Metrici --------
+Accuracy               = 0.8400
+Precision              = 1.0000
+Recall                 = 0.7282
+F1-score               = 0.8427
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2718
+----------------------------------
+
+Fișier: audio79.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 112 | TN: 63 | FP: 9 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8413
+Precision              = 0.9256
+Recall                 = 0.8235
+F1-score               = 0.8716
+False Positive Rate    = 0.1250
+False Negative Rate    = 0.1765
+----------------------------------
+
+Fișier: audio79.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 81 | TN: 86 | FP: 0 | FN: 55
+-------- Metrici --------
+Accuracy               = 0.7523
+Precision              = 1.0000
+Recall                 = 0.5956
+F1-score               = 0.7465
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.4044
+----------------------------------
+
+Fișier: audio45.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 106 | TN: 59 | FP: 2 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9167
+Precision              = 0.9815
+Recall                 = 0.8908
+F1-score               = 0.9339
+False Positive Rate    = 0.0328
+False Negative Rate    = 0.1092
+----------------------------------
+
+Fișier: audio45.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 95 | TN: 73 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8750
+Precision              = 1.0000
+Recall                 = 0.7983
+F1-score               = 0.8879
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2017
+----------------------------------
+
+Fișier: audio51.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 84 | TN: 59 | FP: 3 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8938
+Precision              = 0.9655
+Recall                 = 0.8571
+F1-score               = 0.9081
+False Positive Rate    = 0.0484
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio51.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 59 | TN: 73 | FP: 0 | FN: 39
+-------- Metrici --------
+Accuracy               = 0.7719
+Precision              = 1.0000
+Recall                 = 0.6020
+F1-score               = 0.7516
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3980
+----------------------------------
+
+Fișier: audio50.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 60 | FP: 0 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9375
+Precision              = 1.0000
+Recall                 = 0.8929
+F1-score               = 0.9434
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1071
+----------------------------------
+
+Fișier: audio50.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 72 | TN: 69 | FP: 0 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9216
+Precision              = 1.0000
+Recall                 = 0.8571
+F1-score               = 0.9231
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio44.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 50 | TN: 68 | FP: 1 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9077
+Precision              = 0.9804
+Recall                 = 0.8197
+F1-score               = 0.8929
+False Positive Rate    = 0.0145
+False Negative Rate    = 0.1803
+----------------------------------
+
+Fișier: audio44.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 41 | TN: 78 | FP: 0 | FN: 20
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6721
+F1-score               = 0.8039
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3279
+----------------------------------
+
+Fișier: audio78.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 63 | FP: 3 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8795
+Precision              = 0.9651
+Recall                 = 0.8300
+F1-score               = 0.8925
+False Positive Rate    = 0.0455
+False Negative Rate    = 0.1700
+----------------------------------
+
+Fișier: audio78.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 69 | TN: 77 | FP: 0 | FN: 31
+-------- Metrici --------
+Accuracy               = 0.8249
+Precision              = 1.0000
+Recall                 = 0.6900
+F1-score               = 0.8166
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3100
+----------------------------------
+
+Fișier: audio93.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 58 | FP: 0 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9236
+Precision              = 1.0000
+Recall                 = 0.8721
+F1-score               = 0.9317
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1279
+----------------------------------
+
+Fișier: audio93.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 72 | TN: 67 | FP: 0 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.9085
+Precision              = 1.0000
+Recall                 = 0.8372
+F1-score               = 0.9114
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1628
+----------------------------------
+
+Fișier: audio87.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 173 | TN: 44 | FP: 17 | FN: 41
+-------- Metrici --------
+Accuracy               = 0.7891
+Precision              = 0.9105
+Recall                 = 0.8084
+F1-score               = 0.8564
+False Positive Rate    = 0.2787
+False Negative Rate    = 0.1916
+----------------------------------
+
+Fișier: audio87.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 154 | TN: 80 | FP: 0 | FN: 60
+-------- Metrici --------
+Accuracy               = 0.7959
+Precision              = 1.0000
+Recall                 = 0.7196
+F1-score               = 0.8370
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2804
+----------------------------------
+
+Fișier: audio16.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 41 | FP: 0 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9134
+Precision              = 1.0000
+Recall                 = 0.8721
+F1-score               = 0.9317
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1279
+----------------------------------
+
+Fișier: audio16.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 70 | TN: 49 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.8815
+Precision              = 1.0000
+Recall                 = 0.8140
+F1-score               = 0.8974
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1860
+----------------------------------
+
+Fișier: audio17.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 80 | TN: 30 | FP: 0 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8871
+Precision              = 1.0000
+Recall                 = 0.8511
+F1-score               = 0.9195
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1489
+----------------------------------
+
+Fișier: audio17.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 39 | FP: 0 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9323
+Precision              = 1.0000
+Recall                 = 0.9043
+F1-score               = 0.9497
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0957
+----------------------------------
+
+Fișier: audio7.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 93 | TN: 41 | FP: 6 | FN: 20
+-------- Metrici --------
+Accuracy               = 0.8375
+Precision              = 0.9394
+Recall                 = 0.8230
+F1-score               = 0.8774
+False Positive Rate    = 0.1277
+False Negative Rate    = 0.1770
+----------------------------------
+
+Fișier: audio7.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 97 | TN: 58 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9064
+Precision              = 1.0000
+Recall                 = 0.8584
+F1-score               = 0.9238
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1416
+----------------------------------
+
+Fișier: audio15.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 92 | TN: 40 | FP: 1 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9167
+Precision              = 0.9892
+Recall                 = 0.8932
+F1-score               = 0.9388
+False Positive Rate    = 0.0244
+False Negative Rate    = 0.1068
+----------------------------------
+
+Fișier: audio15.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 97 | TN: 50 | FP: 0 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9608
+Precision              = 1.0000
+Recall                 = 0.9417
+F1-score               = 0.9700
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0583
+----------------------------------
+
+Fișier: audio5.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 65 | TN: 63 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9078
+Precision              = 0.9848
+Recall                 = 0.8442
+F1-score               = 0.9091
+False Positive Rate    = 0.0156
+False Negative Rate    = 0.1558
+----------------------------------
+
+Fișier: audio5.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 59 | TN: 74 | FP: 0 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8808
+Precision              = 1.0000
+Recall                 = 0.7662
+F1-score               = 0.8676
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2338
+----------------------------------
+
+Fișier: audio29.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 98 | TN: 32 | FP: 3 | FN: 22
+-------- Metrici --------
+Accuracy               = 0.8387
+Precision              = 0.9703
+Recall                 = 0.8167
+F1-score               = 0.8869
+False Positive Rate    = 0.0857
+False Negative Rate    = 0.1833
+----------------------------------
+
+Fișier: audio29.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 98 | TN: 45 | FP: 0 | FN: 22
+-------- Metrici --------
+Accuracy               = 0.8667
+Precision              = 1.0000
+Recall                 = 0.8167
+F1-score               = 0.8991
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1833
+----------------------------------
+
+Fișier: audio28.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 52 | TN: 32 | FP: 1 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9231
+Precision              = 0.9811
+Recall                 = 0.8966
+F1-score               = 0.9369
+False Positive Rate    = 0.0303
+False Negative Rate    = 0.1034
+----------------------------------
+
+Fișier: audio28.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 53 | TN: 39 | FP: 0 | FN: 5
+-------- Metrici --------
+Accuracy               = 0.9485
+Precision              = 1.0000
+Recall                 = 0.9138
+F1-score               = 0.9550
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0862
+----------------------------------
+
+Fișier: audio4.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 55 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9286
+Precision              = 0.9868
+Recall                 = 0.8929
+F1-score               = 0.9375
+False Positive Rate    = 0.0179
+False Negative Rate    = 0.1071
+----------------------------------
+
+Fișier: audio4.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 67 | TN: 66 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8867
+Precision              = 1.0000
+Recall                 = 0.7976
+F1-score               = 0.8874
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2024
+----------------------------------
+
+Fișier: audio14.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 76 | TN: 45 | FP: 2 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8768
+Precision              = 0.9744
+Recall                 = 0.8352
+F1-score               = 0.8994
+False Positive Rate    = 0.0426
+False Negative Rate    = 0.1648
+----------------------------------
+
+Fișier: audio14.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 75 | TN: 56 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.8912
+Precision              = 1.0000
+Recall                 = 0.8242
+F1-score               = 0.9036
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1758
+----------------------------------
+
+Fișier: audio10.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 67 | TN: 48 | FP: 1 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9055
+Precision              = 0.9853
+Recall                 = 0.8590
+F1-score               = 0.9178
+False Positive Rate    = 0.0204
+False Negative Rate    = 0.1410
+----------------------------------
+
+Fișier: audio10.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 67 | TN: 57 | FP: 0 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9185
+Precision              = 1.0000
+Recall                 = 0.8590
+F1-score               = 0.9241
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1410
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 60 | FP: 3 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9146
+Precision              = 0.9677
+Recall                 = 0.8911
+F1-score               = 0.9278
+False Positive Rate    = 0.0476
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio11.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 67 | TN: 36 | FP: 3 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.8957
+Precision              = 0.9571
+Recall                 = 0.8816
+F1-score               = 0.9178
+False Positive Rate    = 0.0769
+False Negative Rate    = 0.1184
+----------------------------------
+
+Fișier: audio11.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 65 | TN: 47 | FP: 0 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9106
+Precision              = 1.0000
+Recall                 = 0.8553
+F1-score               = 0.9220
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1447
+----------------------------------
+
+Fișier: audio3.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 51 | TN: 57 | FP: 2 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9153
+Precision              = 0.9623
+Recall                 = 0.8644
+F1-score               = 0.9107
+False Positive Rate    = 0.0339
+False Negative Rate    = 0.1356
+----------------------------------
+
+Fișier: audio3.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 39 | TN: 64 | FP: 0 | FN: 23
+-------- Metrici --------
+Accuracy               = 0.8175
+Precision              = 1.0000
+Recall                 = 0.6290
+F1-score               = 0.7723
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3710
+----------------------------------
+
+Fișier: audio13.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 60 | TN: 44 | FP: 2 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8595
+Precision              = 0.9677
+Recall                 = 0.8000
+F1-score               = 0.8759
+False Positive Rate    = 0.0435
+False Negative Rate    = 0.2000
+----------------------------------
+
+Fișier: audio13.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 62 | TN: 54 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.8992
+Precision              = 1.0000
+Recall                 = 0.8267
+F1-score               = 0.9051
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1733
+----------------------------------
+
+Fișier: audio12.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 41 | FP: 1 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9134
+Precision              = 0.9868
+Recall                 = 0.8824
+F1-score               = 0.9317
+False Positive Rate    = 0.0238
+False Negative Rate    = 0.1176
+----------------------------------
+
+Fișier: audio12.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 74 | TN: 50 | FP: 0 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9185
+Precision              = 1.0000
+Recall                 = 0.8706
+F1-score               = 0.9308
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1294
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 56 | TN: 58 | FP: 2 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9268
+Precision              = 0.9655
+Recall                 = 0.8889
+F1-score               = 0.9256
+False Positive Rate    = 0.0333
+False Negative Rate    = 0.1111
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 43 | TN: 69 | FP: 0 | FN: 20
+-------- Metrici --------
+Accuracy               = 0.8485
+Precision              = 1.0000
+Recall                 = 0.6825
+F1-score               = 0.8113
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3175
+----------------------------------
+
+Fișier: audio23.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 84 | TN: 32 | FP: 1 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.8923
+Precision              = 0.9882
+Recall                 = 0.8660
+F1-score               = 0.9231
+False Positive Rate    = 0.0303
+False Negative Rate    = 0.1340
+----------------------------------
+
+Fișier: audio23.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 42 | FP: 0 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9137
+Precision              = 1.0000
+Recall                 = 0.8763
+F1-score               = 0.9341
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1237
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 63 | FP: 4 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8902
+Precision              = 0.9540
+Recall                 = 0.8557
+F1-score               = 0.9022
+False Positive Rate    = 0.0597
+False Negative Rate    = 0.1443
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 89 | TN: 56 | FP: 20 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.8286
+Precision              = 0.8165
+Recall                 = 0.8990
+F1-score               = 0.8558
+False Positive Rate    = 0.2632
+False Negative Rate    = 0.1010
+----------------------------------
+
+Fișier: audio22.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 88 | TN: 35 | FP: 2 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8786
+Precision              = 0.9778
+Recall                 = 0.8544
+F1-score               = 0.9119
+False Positive Rate    = 0.0541
+False Negative Rate    = 0.1456
+----------------------------------
+
+Fișier: audio22.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 83 | TN: 47 | FP: 0 | FN: 20
+-------- Metrici --------
+Accuracy               = 0.8667
+Precision              = 1.0000
+Recall                 = 0.8058
+F1-score               = 0.8925
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1942
+----------------------------------
+
+Fișier: audio20.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 92 | TN: 65 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.9023
+Precision              = 1.0000
+Recall                 = 0.8440
+F1-score               = 0.9154
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1560
+----------------------------------
+
+Fișier: audio20.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 71 | TN: 77 | FP: 0 | FN: 38
+-------- Metrici --------
+Accuracy               = 0.7957
+Precision              = 1.0000
+Recall                 = 0.6514
+F1-score               = 0.7889
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3486
+----------------------------------
+
+Fișier: audio21.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 86 | TN: 37 | FP: 3 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8786
+Precision              = 0.9663
+Recall                 = 0.8600
+F1-score               = 0.9101
+False Positive Rate    = 0.0750
+False Negative Rate    = 0.1400
+----------------------------------
+
+Fișier: audio21.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 87 | TN: 50 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9133
+Precision              = 1.0000
+Recall                 = 0.8700
+F1-score               = 0.9305
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1300
+----------------------------------
+
+Fișier: audio9.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 85 | TN: 32 | FP: 1 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8603
+Precision              = 0.9884
+Recall                 = 0.8252
+F1-score               = 0.8995
+False Positive Rate    = 0.0303
+False Negative Rate    = 0.1748
+----------------------------------
+
+Fișier: audio9.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 81 | TN: 42 | FP: 0 | FN: 22
+-------- Metrici --------
+Accuracy               = 0.8483
+Precision              = 1.0000
+Recall                 = 0.7864
+F1-score               = 0.8804
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2136
+----------------------------------
+
+Fișier: audio19.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 57 | TN: 60 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9213
+Precision              = 0.9828
+Recall                 = 0.8636
+F1-score               = 0.9194
+False Positive Rate    = 0.0164
+False Negative Rate    = 0.1364
+----------------------------------
+
+Fișier: audio19.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 53 | TN: 69 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9037
+Precision              = 1.0000
+Recall                 = 0.8030
+F1-score               = 0.8908
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1970
+----------------------------------
+
+Fișier: audio25.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 80 | TN: 29 | FP: 0 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9160
+Precision              = 1.0000
+Recall                 = 0.8889
+F1-score               = 0.9412
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1111
+----------------------------------
+
+Fișier: audio25.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 83 | TN: 37 | FP: 0 | FN: 7
+-------- Metrici --------
+Accuracy               = 0.9449
+Precision              = 1.0000
+Recall                 = 0.9222
+F1-score               = 0.9595
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0778
+----------------------------------
+
+Fișier: audio24.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 74 | TN: 47 | FP: 1 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9167
+Precision              = 0.9867
+Recall                 = 0.8810
+F1-score               = 0.9308
+False Positive Rate    = 0.0208
+False Negative Rate    = 0.1190
+----------------------------------
+
+Fișier: audio24.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 57 | FP: 0 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9574
+Precision              = 1.0000
+Recall                 = 0.9286
+F1-score               = 0.9630
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0714
+----------------------------------
+
+Fișier: audio30.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 78 | TN: 51 | FP: 5 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8658
+Precision              = 0.9398
+Recall                 = 0.8387
+F1-score               = 0.8864
+False Positive Rate    = 0.0893
+False Negative Rate    = 0.1613
+----------------------------------
+
+Fișier: audio30.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 80 | TN: 66 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9182
+Precision              = 1.0000
+Recall                 = 0.8602
+F1-score               = 0.9249
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1398
+----------------------------------
+
+Fișier: audio18.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 80 | TN: 46 | FP: 1 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9000
+Precision              = 0.9877
+Recall                 = 0.8602
+F1-score               = 0.9195
+False Positive Rate    = 0.0213
+False Negative Rate    = 0.1398
+----------------------------------
+
+Fișier: audio18.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 84 | TN: 57 | FP: 0 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9400
+Precision              = 1.0000
+Recall                 = 0.9032
+F1-score               = 0.9492
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0968
+----------------------------------
+
+Fișier: audio8.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 77 | TN: 47 | FP: 0 | FN: 6
+-------- Metrici --------
+Accuracy               = 0.9538
+Precision              = 1.0000
+Recall                 = 0.9277
+F1-score               = 0.9625
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0723
+----------------------------------
+
+Fișier: audio8.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 75 | TN: 56 | FP: 0 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9424
+Precision              = 1.0000
+Recall                 = 0.9036
+F1-score               = 0.9494
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0964
+----------------------------------
+
+Fișier: audio26.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 68 | TN: 29 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.8818
+Precision              = 1.0000
+Recall                 = 0.8395
+F1-score               = 0.9128
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1605
+----------------------------------
+
+Fișier: audio26.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 71 | TN: 36 | FP: 0 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9145
+Precision              = 1.0000
+Recall                 = 0.8765
+F1-score               = 0.9342
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1235
+----------------------------------
+
+Fișier: audio27.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 89 | TN: 35 | FP: 1 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9118
+Precision              = 0.9889
+Recall                 = 0.8900
+F1-score               = 0.9368
+False Positive Rate    = 0.0278
+False Negative Rate    = 0.1100
+----------------------------------
+
+Fișier: audio27.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 92 | TN: 45 | FP: 0 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9448
+Precision              = 1.0000
+Recall                 = 0.9200
+F1-score               = 0.9583
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0800
+----------------------------------
+
+Fișier: audio5.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 65 | TN: 63 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9078
+Precision              = 0.9848
+Recall                 = 0.8442
+F1-score               = 0.9091
+False Positive Rate    = 0.0156
+False Negative Rate    = 0.1558
+----------------------------------
+
+Fișier: audio5.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 59 | TN: 74 | FP: 0 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8808
+Precision              = 1.0000
+Recall                 = 0.7662
+F1-score               = 0.8676
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2338
+----------------------------------
+
+Fișier: audio4.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 55 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9286
+Precision              = 0.9868
+Recall                 = 0.8929
+F1-score               = 0.9375
+False Positive Rate    = 0.0179
+False Negative Rate    = 0.1071
+----------------------------------
+
+Fișier: audio4.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 67 | TN: 66 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8867
+Precision              = 1.0000
+Recall                 = 0.7976
+F1-score               = 0.8874
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2024
+----------------------------------
+
+Fișier: audio4.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 74 | TN: 55 | FP: 1 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9214
+Precision              = 0.9867
+Recall                 = 0.8810
+F1-score               = 0.9308
+False Positive Rate    = 0.0179
+False Negative Rate    = 0.1190
+----------------------------------
+
+Fișier: audio4.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 67 | TN: 66 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8867
+Precision              = 1.0000
+Recall                 = 0.7976
+F1-score               = 0.8874
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2024
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 43 | TN: 69 | FP: 0 | FN: 20
+-------- Metrici --------
+Accuracy               = 0.8485
+Precision              = 1.0000
+Recall                 = 0.6825
+F1-score               = 0.8113
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3175
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 64 | TN: 76 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8000
+Precision              = 1.0000
+Recall                 = 0.6465
+F1-score               = 0.7853
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3535
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 64 | TN: 76 | FP: 0 | FN: 35
+-------- Metrici --------
+Accuracy               = 0.8000
+Precision              = 1.0000
+Recall                 = 0.6465
+F1-score               = 0.7853
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3535
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 83 | TN: 62 | FP: 5 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8841
+Precision              = 0.9432
+Recall                 = 0.8557
+F1-score               = 0.8973
+False Positive Rate    = 0.0746
+False Negative Rate    = 0.1443
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 65 | TN: 76 | FP: 0 | FN: 34
+-------- Metrici --------
+Accuracy               = 0.8057
+Precision              = 1.0000
+Recall                 = 0.6566
+F1-score               = 0.7927
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3434
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 67 | FP: 9 | FN: 21
+-------- Metrici --------
+Accuracy               = 0.8286
+Precision              = 0.8966
+Recall                 = 0.7879
+F1-score               = 0.8387
+False Positive Rate    = 0.1184
+False Negative Rate    = 0.2121
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio9.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 85 | TN: 32 | FP: 1 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8603
+Precision              = 0.9884
+Recall                 = 0.8252
+F1-score               = 0.8995
+False Positive Rate    = 0.0303
+False Negative Rate    = 0.1748
+----------------------------------
+
+Fișier: audio9.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 81 | TN: 42 | FP: 0 | FN: 22
+-------- Metrici --------
+Accuracy               = 0.8483
+Precision              = 1.0000
+Recall                 = 0.7864
+F1-score               = 0.8804
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2136
+----------------------------------
+
+Fișier: audio17.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 80 | TN: 30 | FP: 0 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8871
+Precision              = 1.0000
+Recall                 = 0.8511
+F1-score               = 0.9195
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1489
+----------------------------------
+
+Fișier: audio17.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 84 | TN: 39 | FP: 0 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9248
+Precision              = 1.0000
+Recall                 = 0.8936
+F1-score               = 0.9438
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1064
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 84 | TN: 62 | FP: 5 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.8902
+Precision              = 0.9438
+Recall                 = 0.8660
+F1-score               = 0.9032
+False Positive Rate    = 0.0746
+False Negative Rate    = 0.1340
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 89 | TN: 56 | FP: 20 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.8286
+Precision              = 0.8165
+Recall                 = 0.8990
+F1-score               = 0.8558
+False Positive Rate    = 0.2632
+False Negative Rate    = 0.1010
+----------------------------------
+
+Fișier: audio3.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 51 | TN: 58 | FP: 1 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9237
+Precision              = 0.9808
+Recall                 = 0.8644
+F1-score               = 0.9189
+False Positive Rate    = 0.0169
+False Negative Rate    = 0.1356
+----------------------------------
+
+Fișier: audio3.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 39 | TN: 64 | FP: 0 | FN: 23
+-------- Metrici --------
+Accuracy               = 0.8175
+Precision              = 1.0000
+Recall                 = 0.6290
+F1-score               = 0.7723
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3710
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio19.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 57 | TN: 60 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9213
+Precision              = 0.9828
+Recall                 = 0.8636
+F1-score               = 0.9194
+False Positive Rate    = 0.0164
+False Negative Rate    = 0.1364
+----------------------------------
+
+Fișier: audio19.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 53 | TN: 69 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9037
+Precision              = 1.0000
+Recall                 = 0.8030
+F1-score               = 0.8908
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1970
+----------------------------------
+
+Fișier: audio16.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 72 | TN: 41 | FP: 0 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8898
+Precision              = 1.0000
+Recall                 = 0.8372
+F1-score               = 0.9114
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1628
+----------------------------------
+
+Fișier: audio16.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 71 | TN: 49 | FP: 0 | FN: 15
+-------- Metrici --------
+Accuracy               = 0.8889
+Precision              = 1.0000
+Recall                 = 0.8256
+F1-score               = 0.9045
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1744
+----------------------------------
+
+Fișier: audio17.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 80 | TN: 30 | FP: 0 | FN: 14
+-------- Metrici --------
+Accuracy               = 0.8871
+Precision              = 1.0000
+Recall                 = 0.8511
+F1-score               = 0.9195
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1489
+----------------------------------
+
+Fișier: audio17.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 84 | TN: 39 | FP: 0 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9248
+Precision              = 1.0000
+Recall                 = 0.8936
+F1-score               = 0.9438
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1064
+----------------------------------
+
+Fișier: audio18.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 80 | TN: 47 | FP: 0 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.9071
+Precision              = 1.0000
+Recall                 = 0.8602
+F1-score               = 0.9249
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1398
+----------------------------------
+
+Fișier: audio18.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 84 | TN: 57 | FP: 0 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9400
+Precision              = 1.0000
+Recall                 = 0.9032
+F1-score               = 0.9492
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.0968
+----------------------------------
+
+Fișier: audio20.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 0 | TN: 30 | FP: 0 | FN: 87
+-------- Metrici --------
+Accuracy               = 0.2564
+Precision              = 0.0000
+Recall                 = 0.0000
+F1-score               = 0.0000
+False Positive Rate    = 0.0000
+False Negative Rate    = 1.0000
+----------------------------------
+
+Fișier: audio20.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 0 | TN: 30 | FP: 0 | FN: 87
+-------- Metrici --------
+Accuracy               = 0.2564
+Precision              = 0.0000
+Recall                 = 0.0000
+F1-score               = 0.0000
+False Positive Rate    = 0.0000
+False Negative Rate    = 1.0000
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio3.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 51 | TN: 58 | FP: 1 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9237
+Precision              = 0.9808
+Recall                 = 0.8644
+F1-score               = 0.9189
+False Positive Rate    = 0.0169
+False Negative Rate    = 0.1356
+----------------------------------
+
+Fișier: audio3.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 39 | TN: 64 | FP: 0 | FN: 23
+-------- Metrici --------
+Accuracy               = 0.8175
+Precision              = 1.0000
+Recall                 = 0.6290
+F1-score               = 0.7723
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3710
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio4.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 67 | TN: 66 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8867
+Precision              = 1.0000
+Recall                 = 0.7976
+F1-score               = 0.8874
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2024
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 84 | TN: 62 | FP: 5 | FN: 13
+-------- Metrici --------
+Accuracy               = 0.8902
+Precision              = 0.9438
+Recall                 = 0.8660
+F1-score               = 0.9032
+False Positive Rate    = 0.0746
+False Negative Rate    = 0.1340
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 89 | TN: 56 | FP: 20 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.8286
+Precision              = 0.8165
+Recall                 = 0.8990
+F1-score               = 0.8558
+False Positive Rate    = 0.2632
+False Negative Rate    = 0.1010
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 78 | TN: 67 | FP: 9 | FN: 21
+-------- Metrici --------
+Accuracy               = 0.8286
+Precision              = 0.8966
+Recall                 = 0.7879
+F1-score               = 0.8387
+False Positive Rate    = 0.1184
+False Negative Rate    = 0.2121
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 87 | TN: 61 | FP: 6 | FN: 10
+-------- Metrici --------
+Accuracy               = 0.9024
+Precision              = 0.9355
+Recall                 = 0.8969
+F1-score               = 0.9158
+False Positive Rate    = 0.0896
+False Negative Rate    = 0.1031
+----------------------------------
+
+Fișier: audio1_zgomot.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 66 | TN: 76 | FP: 0 | FN: 33
+-------- Metrici --------
+Accuracy               = 0.8114
+Precision              = 1.0000
+Recall                 = 0.6667
+F1-score               = 0.8000
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3333
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio3.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 51 | TN: 58 | FP: 1 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9237
+Precision              = 0.9808
+Recall                 = 0.8644
+F1-score               = 0.9189
+False Positive Rate    = 0.0169
+False Negative Rate    = 0.1356
+----------------------------------
+
+Fișier: audio3.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 39 | TN: 64 | FP: 0 | FN: 23
+-------- Metrici --------
+Accuracy               = 0.8175
+Precision              = 1.0000
+Recall                 = 0.6290
+F1-score               = 0.7723
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3710
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 55 | TN: 58 | FP: 2 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9649
+Recall                 = 0.8730
+F1-score               = 0.9167
+False Positive Rate    = 0.0333
+False Negative Rate    = 0.1270
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio4.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 55 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9286
+Precision              = 0.9868
+Recall                 = 0.8929
+F1-score               = 0.9375
+False Positive Rate    = 0.0179
+False Negative Rate    = 0.1071
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio5.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 59 | TN: 74 | FP: 0 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8808
+Precision              = 1.0000
+Recall                 = 0.7662
+F1-score               = 0.8676
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2338
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio5.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 65 | TN: 63 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9078
+Precision              = 0.9848
+Recall                 = 0.8442
+F1-score               = 0.9091
+False Positive Rate    = 0.0156
+False Negative Rate    = 0.1558
+----------------------------------
+
+Fișier: audio3.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 38 | TN: 64 | FP: 0 | FN: 24
+-------- Metrici --------
+Accuracy               = 0.8095
+Precision              = 1.0000
+Recall                 = 0.6129
+F1-score               = 0.7600
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3871
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 89 | TN: 61 | FP: 2 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9146
+Precision              = 0.9780
+Recall                 = 0.8812
+F1-score               = 0.9271
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1188
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 60 | FP: 3 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9146
+Precision              = 0.9677
+Recall                 = 0.8911
+F1-score               = 0.9278
+False Positive Rate    = 0.0476
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio2.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 54 | TN: 59 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9187
+Precision              = 0.9818
+Recall                 = 0.8571
+F1-score               = 0.9153
+False Positive Rate    = 0.0167
+False Negative Rate    = 0.1429
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio4.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 67 | TN: 66 | FP: 0 | FN: 17
+-------- Metrici --------
+Accuracy               = 0.8867
+Precision              = 1.0000
+Recall                 = 0.7976
+F1-score               = 0.8874
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2024
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 90 | TN: 61 | FP: 2 | FN: 11
+-------- Metrici --------
+Accuracy               = 0.9207
+Precision              = 0.9783
+Recall                 = 0.8911
+F1-score               = 0.9326
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.1089
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio5.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 59 | TN: 74 | FP: 0 | FN: 18
+-------- Metrici --------
+Accuracy               = 0.8808
+Precision              = 1.0000
+Recall                 = 0.7662
+F1-score               = 0.8676
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.2338
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio3.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 51 | TN: 58 | FP: 1 | FN: 8
+-------- Metrici --------
+Accuracy               = 0.9237
+Precision              = 0.9808
+Recall                 = 0.8644
+F1-score               = 0.9189
+False Positive Rate    = 0.0169
+False Negative Rate    = 0.1356
+----------------------------------
+
+Fișier: audio2.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 44 | TN: 69 | FP: 0 | FN: 19
+-------- Metrici --------
+Accuracy               = 0.8561
+Precision              = 1.0000
+Recall                 = 0.6984
+F1-score               = 0.8224
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.3016
+----------------------------------
+
+Fișier: audio5.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 65 | TN: 63 | FP: 1 | FN: 12
+-------- Metrici --------
+Accuracy               = 0.9078
+Precision              = 0.9848
+Recall                 = 0.8442
+F1-score               = 0.9091
+False Positive Rate    = 0.0156
+False Negative Rate    = 0.1558
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio4.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 75 | TN: 55 | FP: 1 | FN: 9
+-------- Metrici --------
+Accuracy               = 0.9286
+Precision              = 0.9868
+Recall                 = 0.8929
+F1-score               = 0.9375
+False Positive Rate    = 0.0179
+False Negative Rate    = 0.1071
+----------------------------------
+
+Fișier: audio1.wav
+Model: WEBRTC
+-------- Confusion Matrix --------
+TP: 85 | TN: 74 | FP: 0 | FN: 16
+-------- Metrici --------
+Accuracy               = 0.9086
+Precision              = 1.0000
+Recall                 = 0.8416
+F1-score               = 0.9140
+False Positive Rate    = 0.0000
+False Negative Rate    = 0.1584
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 62 | TN: 61 | FP: 2 | FN: 39
+-------- Metrici --------
+Accuracy               = 0.7500
+Precision              = 0.9688
+Recall                 = 0.6139
+F1-score               = 0.7515
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.3861
+----------------------------------
+
+Fișier: audio1.wav
+Model: SILERO
+-------- Confusion Matrix --------
+TP: 71 | TN: 61 | FP: 2 | FN: 30
+-------- Metrici --------
+Accuracy               = 0.8049
+Precision              = 0.9726
+Recall                 = 0.7030
+F1-score               = 0.8161
+False Positive Rate    = 0.0317
+False Negative Rate    = 0.2970
+----------------------------------
+

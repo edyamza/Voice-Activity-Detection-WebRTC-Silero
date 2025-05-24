@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/silero/__init__.py
+src/silero/silero.py
+src/silero/tts_utils.py
+src/silero/utils.py
+src/silero.egg-info/PKG-INFO
+src/silero.egg-info/SOURCES.txt
+src/silero.egg-info/dependency_links.txt
+src/silero.egg-info/requires.txt
+src/silero.egg-info/top_level.txt
